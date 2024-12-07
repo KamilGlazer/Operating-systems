@@ -1,3 +1,2 @@
-Projekty zostały zrealizowane podczas studiowania Informatyki na **Politechnice Krakowskiej im. Tadeusza Kościuszki** w ramach przedmiotu - Systemy operacyjne. 
-Programy komunikują się za pomocą różnych mechanizmów IPC, takich jak kolejki komunikatów, pamięć współdzieloną i semafory. Wykorzystują również potoki i potoki FIFO,
-wykonują operacje na plikach, korzystają z funkcji systemowych, obsługują sygnały i kontrolują błędy.
+
+The projects were carried out while studying Computer Science at the Tadeusz Kościuszko University of Technology in Kraków as part of the course Operating Systems. The programs communicate using various IPC mechanisms such as message queues, shared memory, and semaphores. They also utilize pipes and FIFO pipes, perform file operations, leverage system functions, handle signals, and manage error control.
